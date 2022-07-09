@@ -1,4 +1,4 @@
-# minecraft-server-list (In development)
+# Minecraft-server-list (In development)
 A simple minecraft server lister that is community based!.
 
 ## Features
