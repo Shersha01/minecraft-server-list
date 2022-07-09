@@ -1,5 +1,5 @@
 # Minecraft-server-list (In development)
-A simple minecraft server lister that is community based!.
+A simple minecraft server lister that is for hostings!.
 
 ## Features
 - [X] - [Login/SignUp](https://github.com/Shersha01/minecraft-server-list) - Login/SignUp based on email and pass.
